@@ -297,12 +297,9 @@ export default {
                         }else{
                             ulStr.getElementsByTagName("li")[this.lineNo ].removeAttribute("class");
                             this.lineNo = i;
-                            ulStr.getElementsByTagName("li")[this.lineNo ].classList.add("activeClass");
-                            
-                        }
-                       
-                    }
-                   
+                            ulStr.getElementsByTagName("li")[this.lineNo ].classList.add("activeClass");            
+                        }         
+                    }              
                 }
             }
             if(!this.power){
