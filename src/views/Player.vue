@@ -11,7 +11,7 @@
             <div class="out ">
                 <div class="roll">
                     <div class="inner">
-                        <img src="~assets/img/zjl_default.jpg" />
+                        <img src="~assets/img/default.jpg" />
                         <!-- <img :src="picUrl" :onerror="defaultImg"/>    -->
                     </div>
                 </div>
