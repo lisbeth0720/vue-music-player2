@@ -1,0 +1,19 @@
+{
+  "error": 0,
+  "detail":
+    {
+      "id": 5,
+      "itemname": "周杰伦 - 等你下课",
+      "fileurl": "data/music/周杰伦 - 等你下课.flac",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    }
+}

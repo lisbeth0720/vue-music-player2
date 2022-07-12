@@ -1,0 +1,97 @@
+{
+  "wpcontentquery":{
+     "error":0,
+     "wpcontentlist": [
+      {
+       "itemid": 1,
+       "itemname": "周杰伦 - 蒲公英的约定",
+       "fileurl": "data/music/周杰伦 - 蒲公英的约定.flac",
+       "lrcurl": "",
+       "ct": 9,
+       "status": 0,
+       "alias": [],
+       "rtype": 0,
+       "ftype": 0,
+       "mvid": 0,
+       "fee": 8,
+       "rUrl": null,
+       "mark": 64
+     },
+     {
+      "itemid": 2,
+      "itemname": "周杰伦 - 不能说的秘密",
+      "fileurl": "data/music/周杰伦 - 不能说的秘密.flac",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    },
+    {
+      "itemid": 3,
+      "itemname": "周杰伦 - 彩虹",
+      "fileurl": "data/music/周杰伦 - 彩虹.flac",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    },
+    {
+      "itemid": 4,
+      "itemname": "周杰伦 - 稻香",
+      "fileurl": "data/music/周杰伦 - 稻香",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    },
+    {
+      "itemid": 5,
+      "itemname": "周杰伦 - 等你下课",
+      "fileurl": "data/music/周杰伦 - 等你下课",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    },
+    {
+      "itemid": 6,
+      "itemname": "周杰伦 - 东风破",
+      "fileurl": "data/music/周杰伦 - 东风破",
+      "lrcurl": "",
+      "ct": 9,
+      "status": 0,
+      "alias": [],
+      "rtype": 0,
+      "ftype": 0,
+      "mvid": 0,
+      "fee": 8,
+      "rUrl": null,
+      "mark": 64
+    }
+   ]
+ }
+}
